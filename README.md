@@ -1,10 +1,13 @@
+<div align="center">
+  <h2>Dashboard</h2>
+</div>
+<hr style="border: 1px dotted;">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/dashboard.jpg" />
 </p>
+<hr style="border: 1px dotted;">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/netflix_logo.jpg" width="150" />
-</p>
 
 <div align="center">
   <h1>Netflix Movies and TV Shows Dashboard</h1>
