@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/netflix_logo.jpg" />
+  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/netflix_logo.jpg" width="150" />
+  <p> Netflix Movies and TV Shows Dashboard </p>
 </p>
+
 
 <div align="center">
   ## Overview
