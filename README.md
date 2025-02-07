@@ -4,12 +4,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/dashboard.jpg" />
+  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/dashboard.jpg" alt="Netflix Dashboard" />
 </p>
 <hr style="border: 1px dotted;">
-
-
-
 
 <div align="center">
   <h2>Overview</h2>
@@ -102,6 +99,6 @@
   <h2>Author</h2>
   <p>
     <b>Keshav</b> <br>
-    LinkedIn | GitHub
+    <a href="https://www.linkedin.com/in/keshav91900/">LinkedIn</a> | <a href="https://github.com/kkeshavv">GitHub</a>
   </p>
 </div>
