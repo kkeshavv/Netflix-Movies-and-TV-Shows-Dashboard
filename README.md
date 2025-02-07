@@ -1,5 +1,5 @@
 <div align="center">
-   ![Netflix Logo](https://github.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netflix_logo.jpg?raw=true)
+ ![Netflix Logo](https://github.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netflix_logo.jpg?raw=true)
   # Netflix Movies and TV Shows Dashboard
 </div>
 
