@@ -1,7 +1,5 @@
 <p align="center">
-  <img src=" https://github.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netflix_logo.jpg?raw=true" />
-
-
+  <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/netflix_logo.jpg" />
 </p>
 
 <div align="center">
