@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Dashboard</h2>
+  <h1>Netflix Movies and TV Shows Dashboard</h1>
+  <hr style="border: 1px dotted;">
 </div>
-<hr style="border: 1px dotted;">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/main/dashboard.jpg" />
@@ -9,10 +9,7 @@
 <hr style="border: 1px dotted;">
 
 
-<div align="center">
-  <h1>Netflix Movies and TV Shows Dashboard</h1>
-  <hr style="border: 1px dotted;">
-</div>
+
 
 <div align="center">
   <h2>Overview</h2>
