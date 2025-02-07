@@ -1,8 +1,6 @@
-<div>
-    <center>
-     <center> <img src="netflix logo.jpg" alt="Netflix Logo" width="200"> </center>
-        <h1>Netflix Movies and TV Shows Dashboard</h1>
-    </center>
+<div style="text-align: center;">
+    <img src="netflix logo.jpg" alt="Netflix Logo" width="200">
+    <h1>Netflix Movies and TV Shows Dashboard</h1>
 </div>
 
 <center>
