@@ -1,5 +1,5 @@
 <div align="center">
-  ![Netflix Logo](netflix logo.jpg)
+  ![Netflix Logo](netflix%20logo.jpg)
   # Netflix Movies and TV Shows Dashboard
 </div>
 
