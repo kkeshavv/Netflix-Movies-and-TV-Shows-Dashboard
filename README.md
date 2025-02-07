@@ -1,7 +1,7 @@
-<div align="center">
- ![Netflix Logo](https://github.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netflix_logo.jpg?raw=true)
-  # Netflix Movies and TV Shows Dashboard
+<div style="text-align: center;">
+    <img src="https://github.com/kkeshavv/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netflix_logo.jpg?raw=true" alt="Netflix Logo" width="200">
 </div>
+
 
 <div align="center">
   ## Overview
