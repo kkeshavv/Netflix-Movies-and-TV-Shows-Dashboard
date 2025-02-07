@@ -1,8 +1,7 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
     <img src="netflix logo.jpg" alt="Netflix Logo" width="200">
     <h1>Netflix Movies and TV Shows Dashboard</h1>
 </div>
-
 <center>
     <h2>Overview</h2>
 </center>
